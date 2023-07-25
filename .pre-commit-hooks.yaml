@@ -1,0 +1,7 @@
+-   id: boon
+    name: JSON Schema validator
+    description: 'Validate JSON Schema'
+    entry: boon
+    language: rust
+    types: [text]
+    exclude: '^.pre-commit-config.yaml$'
